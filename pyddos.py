@@ -10,7 +10,7 @@ title = '''
            ____/                                            _|         
                                                                     
  DDos python script | Script used for testing ddos | Ddos attack     
- Author: ___T7hM1___                                                
+ Author: Mehdi78                                                
  Github: http://github.com/t7hm1/pyddos                             
  Version:'''+version+''' 
 '''
